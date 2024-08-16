@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.lesson_1.6.7">
+  <component name="RunManager" selected="Python tests.Python tests for lesson6.TestTest1">
     <configuration name="lesson_1.6.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for lesson6.TestTest1" />
         <item itemvalue="Python.lesson_1.6.7" />
         <item itemvalue="Python tests.Python tests for add_to_cart.TestAddtocart" />
         <item itemvalue="Python tests.Python tests for test.TestQq" />
         <item itemvalue="Python tests.Python tests for test.TestQq.test_qq" />
-        <item itemvalue="Python tests.Python tests for lesson6.TestTest1" />
       </list>
     </recent_temporary>
   </component>
