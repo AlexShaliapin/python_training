@@ -1,8 +1,9 @@
+import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-class Test_login_logout():
+class TestLoginLogout:
     def setup_method(self, method):
         self.driver = webdriver.Chrome()
         self.vars = {}
@@ -34,4 +35,7 @@ class Test_login_logout():
         self.login(username="student", password="Password123")
         self.submit_login()
         self.logout()
-        
+
+
+
+
